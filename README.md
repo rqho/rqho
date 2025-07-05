@@ -1,5 +1,11 @@
 ## Hi 👋, I'm Richard
 
+### About Me
+- Electrical Engineering student at the University of Michigan
+- Researcher at the Intelligent Robotics and Autonomy Lab
+- Currently learning Quantum Computing
+- MIT Beaver Works Summer Institute 2023 Alumni
+- Former Software Lead of Metuchen Momentum Robotics
 <!--
 **rqho/rqho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
