@@ -1,9 +1,8 @@
 ## Hi 👋, I'm Richard
 
 ### About Me
-- Electrical Engineering student at the University of Michigan
+- I'm studying Electrical Engineering and Computer Science at the University of Michigan
 - Researcher at the Intelligent Robotics and Autonomy Lab
-- I'm currently learning quantum computing
 <!--
 **rqho/rqho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
