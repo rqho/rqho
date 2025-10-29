@@ -1,4 +1,4 @@
-## Hi 👋, I'm Richard
+## Hi, I'm Richard
 
 ### About Me
 - I'm studying Electrical Engineering and Computer Science at the University of Michigan
