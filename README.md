@@ -1,5 +1,5 @@
-Hi, I'm Richard
-- I'm studying Electrical Engineering and Physics at the University of Michigan
-- Researcher at the Intelligent Robotics and Autonomy Lab
-- Avionics Hardware Engineer at Michigan Aeronautical Science Association
-- Director of Projects at QuantUM - Michigan's only undergraduate organization centered around quantum computing
+# hi, i'm richard
+- attend the university of michigan studying electrical engineering and math
+- previously quantum computing researcher the at the institute for quantum computing's engineered quantum systems laboratory
+- director of michigan's quantum computing project team
+- avionics engineer for michigan aeronautical science association
